@@ -1,6 +1,6 @@
 # Nifty 50 Index Fund
 
-- Tracks the top 50 companies by mark cap in NSE
+- Tracks the top 50 companies by market cap in NSE
 
 
 # 05 - 07 - 2024
